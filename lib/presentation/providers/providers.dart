@@ -8,3 +8,6 @@ export 'actors/actors_by_movie_provider.dart';
 export 'actors/actors_repo_provider.dart';
 
 export 'search/search_movies_provider.dart';
+
+export 'storage/local_storage_provider.dart';
+export 'storage/favorites_movies_provider.dart';
